@@ -1,6 +1,7 @@
-#HISTORIA DE LA WEB
+# HISTORIA DE LA WEB
 
-##HTML 3.2
+## HTML 3.2
+
 HTML 3.2 es una versión de HTML que fue recomendada por el World Wide Web Consortium (W3C). Esta versión consolidó y formalizó características que se estaban utilizando en la web. 
 
 ##Características de HTML 3.2:
@@ -14,10 +15,10 @@ HTML 3.2 es una versión de HTML que fue recomendada por el World Wide Web Conso
 
 5. Etiquetas de formato: Se agregaron varias etiquetas de formato de texto como <font>, <center>, y <strike>, que permitían mejorar la apariencia del texto en la web. Aunque más tarde serían reemplazadas por CSS en otras versiones.
 
-6.Menúes desplegables y otros controles: Los menús desplegables (<select>), ayudaron a crear páginas web más interactivas para los usuarios.
+6. Menúes desplegables y otros controles: Los menús desplegables (<select>), ayudaron a crear páginas web más interactivas para los usuarios.
 
 
-##Limitaciones:
+## Limitaciones:
 * No soportaba frames: Aunque el uso de frames (<frame>) era popular  para dividir la pantalla en secciones, HTML 3.2 no lo incluía. El soporte para frames llegaría en HTML 4.0.
 
 
