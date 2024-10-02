@@ -7,7 +7,7 @@
 HTML 3.2 es una versión de HTML que fue recomendada por el World Wide Web Consortium (W3C). Esta versión consolidó y formalizó características que se estaban utilizando en la web. 
 
 
-## Características de HTML 3.2:
+### Características de HTML 3.2:
 
 
 1. Soporte de tablas: Añadió soporte para el uso de tablas, esto ayudó mucho, ya que permitía organizar datos y contenido en filas y columnas. Esto facilitó la presentación de datos estructurados.
