@@ -73,3 +73,6 @@ __No soportaba frames:__
 
  *Aunque el uso de frames era popular para dividir la pantalla en secciones, HTML 3.2 no lo incluía. El soporte para frames llegaría en HTML 4.0.*
 
+
+![HTML 4.0](https://github.com/DavidInie/SMX2-M8UF1A1-HistoriaWeb-HTML-3.2-o-TemaExpuesto-David-Iniesta/blob/main/Captura%20de%20pantalla%202024-10-03%20103107.png "HTLM 4.0")
+
