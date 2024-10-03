@@ -28,35 +28,48 @@ __1. Soporte de tablas:__
 ![Codigó tabla](https://github.com/DavidInie/SMX2-M8UF1A1-HistoriaWeb-HTML-3.2-o-TemaExpuesto-David-Iniesta/blob/main/Captura%20de%20pantalla%202024-10-03%20095458.png "Codigó tabla")
 
 
-__2. Soporte de elementos multimedia:__ *HTML 3.2 introdujo una función para insertar imágenes, mejorando la capacidad visual de las páginas web.*
+__2. Soporte de elementos multimedia:__ 
+
+ *HTML 3.2 introdujo una función para insertar imágenes, mejorando la capacidad visual de las páginas web.*
 
 
 ![Codigó pegar imágenes](https://github.com/DavidInie/SMX2-M8UF1A1-HistoriaWeb-HTML-3.2-o-TemaExpuesto-David-Iniesta/blob/main/Captura%20de%20pantalla%202024-10-03%20095207.png "Codigó pegar imágenes")
 
 
-__3. Formularios:__ *HTML 3.2 mejoró la función formularios, introduciendo nuevos elementos de entrada como radio buttons, checkboxes o campos de texto.*
+__3. Formularios:__
+
+ *HTML 3.2 mejoró la función formularios, introduciendo nuevos elementos de entrada como radio buttons, checkboxes o campos de texto.*
 
 
 ![Codigó Radio Buttons](https://github.com/DavidInie/SMX2-M8UF1A1-HistoriaWeb-HTML-3.2-o-TemaExpuesto-David-Iniesta/blob/main/Captura%20de%20pantalla%202024-10-03%20095648.png "Codigó Radio Buttons")
 
 
-__4. Soporte de scripts:__ *HTML 3.2 introdujo scripts, lo que permitió la integración de lenguajes como JavaScript dentro del código HTML.*
+__4. Soporte de scripts:__ 
+
+ *HTML 3.2 introdujo scripts, lo que permitió la integración de lenguajes como JavaScript dentro del código HTML.*
 
 
 ![JavaScript](https://github.com/DavidInie/SMX2-M8UF1A1-HistoriaWeb-HTML-3.2-o-TemaExpuesto-David-Iniesta/blob/main/Captura%20de%20pantalla%202024-10-03%20095907.png "JavaScript")
 
 
-__5. Etiquetas de formato:__ *HTML 3.2 añadió etiquetas de formato de texto, que permitían mejorar la apariencia del texto en la web. Aunque más tarde, serían reemplazadas por CSS en otras versiones.*
+__5. Etiquetas de formato:__ 
+
+ *HTML 3.2 añadió etiquetas de formato de texto, que permitían mejorar la apariencia del texto en la web. Aunque más tarde, serían reemplazadas por CSS en otras versiones.*
 
 
 ![Texto Negrita](https://github.com/DavidInie/SMX2-M8UF1A1-HistoriaWeb-HTML-3.2-o-TemaExpuesto-David-Iniesta/blob/main/Captura%20de%20pantalla%202024-10-03%20100122.png "Texto Negrita")
 ![Texto Cursiva](https://github.com/DavidInie/SMX2-M8UF1A1-HistoriaWeb-HTML-3.2-o-TemaExpuesto-David-Iniesta/blob/main/Captura%20de%20pantalla%202024-10-03%20100149.png "Texto Cursiva")
 
-__6. Menúes desplegables:__ *Los menús desplegables ayudaron a crear páginas web más interactivas.*
+__6. Menúes desplegables:__
+
+ *Los menús desplegables ayudaron a crear páginas web más interactivas.*
 
 
 ![Menú desplegable](https://github.com/DavidInie/SMX2-M8UF1A1-HistoriaWeb-HTML-3.2-o-TemaExpuesto-David-Iniesta/blob/main/Captura%20de%20pantalla%202024-10-03%20100338.png "Menú desplegable")
 
 
 ## Limitaciones:
-__No soportaba frames:__ *Aunque el uso de frames era popular para dividir la pantalla en secciones, HTML 3.2 no lo incluía. El soporte para frames llegaría en HTML 4.0.*g
+__No soportaba frames:__ 
+
+ *Aunque el uso de frames era popular para dividir la pantalla en secciones, HTML 3.2 no lo incluía. El soporte para frames llegaría en HTML 4.0.*
+
