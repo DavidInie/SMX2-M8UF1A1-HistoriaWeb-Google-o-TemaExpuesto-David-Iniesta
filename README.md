@@ -40,3 +40,4 @@ HTML 3.2 es una versión de HTML que fue recomendada por el World Wide Web Conso
 En resumen, HTML 3.2 fue un estándar que ayudó a estabilizar y formalizar la web a finales de los 90, aunque era solo un paso en el camino hacia un HTML más moderno y estructurado.
 
 
+
