@@ -14,7 +14,7 @@ HTML es un lenguaje para crear y estructurar el contenido de páginas web. Es un
 HTML 3.2 es una versión de HTML que fue recomendada por el World Wide Web Consortium (W3C). Esta versión consolidó y formalizó características que se estaban utilizando en la web. 
 
 
-![HTML 3.2](https://github.com/DavidInie/SMX2-M8UF1A1-HistoriaWeb-HTML-3.2-o-TemaExpuesto-David-Iniesta/blob/main/Captura%20de%20pantalla%202024-10-03%20094912.png "HTML 3.2)
+![HTML 3.2](https://github.com/DavidInie/SMX2-M8UF1A1-HistoriaWeb-HTML-3.2-o-TemaExpuesto-David-Iniesta/blob/main/Captura%20de%20pantalla%202024-10-03%20094912.png "HTML 3.2")
 
 
 ### Características de HTML 3.2:
