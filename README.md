@@ -2,6 +2,11 @@
 
 
 ## Que es HTML?
+HTML es un lenguaje para crear y estructurar el contenido de páginas web. Es un lenguaje que utiliza etiquetas para definir elementos.
+
+
+![Código HTML](https://github.com/DavidInie/SMX2-M8UF1A1-HistoriaWeb-HTML-3.2-o-TemaExpuesto-David-Iniesta/blob/main/Captura%20de%20pantalla%202024-10-03%20094141.png "Foto código HTML")
+
 
 
 ## HTML 3.2
@@ -31,4 +36,5 @@ HTML 3.2 es una versión de HTML que fue recomendada por el World Wide Web Conso
 
 
 En resumen, HTML 3.2 fue un estándar que ayudó a estabilizar y formalizar la web a finales de los 90, aunque era solo un paso en el camino hacia un HTML más moderno y estructurado.
+
 
